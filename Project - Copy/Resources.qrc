@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>images/bg_person.png</file>
+    <file>images/broadcast.png</file>
+    <file>images/broadcast2.png</file>
+    <file>images/contact.png</file>
+    <file>images/course.png</file>
+    <file>images/course2.png</file>
+    <file>images/schedule.png</file>
+    <file>images/schedule2.png</file>
+  </qresource>
+</RCC>
